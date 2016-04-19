@@ -1,0 +1,12 @@
+Command - Timespan: 00:00:00.0120076
+
+SELECT [UserId] FROM [UserProfile] WHERE (UPPER([UserName]) = 'FERLIN')
+
+With Result: 1
+
+Command - Timespan: 00:00:00.0130116
+
+SELECT [UserId] FROM [UserProfile] WHERE (UPPER([UserName]) = 'FERLIN')
+
+With Result: 1
+
